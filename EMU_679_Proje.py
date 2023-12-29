@@ -1,29 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 29 09:24:52 2023
-
-@author: Huawei
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 23 16:10:16 2023
-
-@author: Huawei
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  6 12:03:34 2023
-
-@author: Huawei
-"""
 import gurobipy as gp
 from gurobipy import GRB   
 import pandas as pd
 import os
 
-# Model Sınav Programi Çizelgeleme
+# Model Sınav ve Gözetmen Programi Çizelgeleme
 
 # Model Girdileri
 directory = 'C:\\Users\\Huawei\\Masaüstü\\Hacettepe doktora\\EMÜ 679 YA ileri matematiksel yöntemler\\Proje\\Model_girdi'  
